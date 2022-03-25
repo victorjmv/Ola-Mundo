@@ -1,0 +1,76 @@
+Aprendendo a linguagem de formatação MarkDown
+
+- Deixar o texto em negrito:
+
+    > **negrito**
+    > __negrito__
+
+- Texto em itálico:
+
+    > *italico*
+    > _italico_
+
+- Titulo:
+
+    > # Titulo nivel 1
+    > ## Titulo nivel 2
+    > ### Titulo nivel 3
+
+- Inserir linha divisória abaixo do texto/título
+
+    > ***
+    > ---
+
+Lista numerada:
+
+    > 1. teste
+    > 1. teste 2
+
+    Sub item
+
+        >1. teste
+        >   1.teste     (Coloca-se trÊs espaços no início)
+
+Lista demarcada:
+
+    > *teste
+    > *teste
+
+    Sub item:
+
+        > *teste
+        >   *teste     (Coloca-se trÊs espaços no início)
+
+Lista de tarefas:
+
+    > - [] Criar pagina principal
+
+    > se colocar um x dentro do colchetes ele marca como se tivesse realizado a tarefa.
+
+Inserindo links
+
+    > [Acesse meu GitHub](URL)
+
+
+Tabelas:
+
+    Num | Nome | Nota
+    ---|---|---
+    1 | Gustavo | 8,5
+    2 | José | 10,0
+    3 | Maria | 9,0
+
+Inserir comandos:
+
+    > `cd /tmp`
+
+    Trecho do código:
+
+    ```
+        O código vai aki.
+
+    ```
+
+Emojis:
+
+    > :
